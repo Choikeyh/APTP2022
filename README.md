@@ -1,4 +1,4 @@
-# APTP 2022 - **{팀명}**
+# APTP 2022 - **{ATP}**
 ###### Asterisk Python Team Project 2022
 구성원: 아스터 | 리스크 | 홍길동 | Change
 
